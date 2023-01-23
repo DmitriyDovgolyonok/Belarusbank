@@ -3,7 +3,7 @@
 
 ## Start project
 Для старта проекта необходимо перейти в папку client и ввести соедующие команды:
-###`cd client`
+### `cd client`
 ### `npm install`
 ### `npm start`
 Открыть http://localhost:3000/login в вашем браузере.  
